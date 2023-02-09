@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/TolulopeVerissimo/BE-engineer-assessment>
-    <img src="https://fearless.tech/brand/logo_mark.png" alt="Logo" width="700" height="80">
+    <img src="https://cdn.theorg.com/d8e381b8-4c7c-47ef-8029-47ea7794e06e_thumb.jpg" alt="Logo" width="700" height="80">
   </a>
 
   <h3 align="center">Senior BE Engineer (NodeJS) Assessment</h3>
