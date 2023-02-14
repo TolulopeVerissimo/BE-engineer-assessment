@@ -7,7 +7,6 @@ import * as path from 'path'
 export const mealsRouter = express.Router()
 
 mealsRouter.get('/:ingredientName', async (req: Request, res: Response) => {
-     
      const name: string = req.params.ingredientName.toString()
      try{
           const recipes: Meals | void = await APIService.findAll(name)
