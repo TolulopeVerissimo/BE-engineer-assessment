@@ -21,7 +21,7 @@
      Hosted on public url
 
 ```
-     class Meal {
+     class MealExample {
           id: number = 52820,
 
           name: string = 'Katsu Chicken curry',
